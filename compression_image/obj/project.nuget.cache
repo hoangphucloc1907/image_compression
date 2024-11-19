@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Oa0RbJ4m1M=",
+  "success": true,
+  "projectFilePath": "C:\\Loc\\Subject\\PPNCKH\\compression_image\\compression_image\\compression_image.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loczxph\\.nuget\\packages\\gdal\\3.9.1\\gdal.3.9.1.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\npgsql\\9.0.0\\npgsql.9.0.0.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\loczxph\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
